@@ -1,0 +1,23 @@
+1) Creational
+Factory Method
+Abstract Factory
+- Singleton
+- Prototype
+Builder
+Object Pool
+
+2) Structural
+- Adapter
+- Bridge
+- Composite
+- Decorator
+- Facade
+- Flyweight
+- Proxy
+
+3) Behavioral
+Chain of Responsibility
+Command
+Interpreter
+Iterator
+ - Strategy
