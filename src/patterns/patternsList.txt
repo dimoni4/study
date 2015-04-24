@@ -1,8 +1,8 @@
 1) Creational
-Factory Method
-Abstract Factory
-- Singleton
 - Prototype
+- Singleton
+- Factory Method
+- Abstract Factory
 Builder
 Object Pool
 
@@ -16,8 +16,9 @@ Object Pool
 - Proxy
 
 3) Behavioral
-Chain of Responsibility
-Command
-Interpreter
-Iterator
+ - Command
  - Strategy
+ - State
+ - Iterator
+Chain of Responsibility
+Interpreter
